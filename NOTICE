@@ -1,0 +1,6 @@
+This repository redistributes GeoIP artifacts published by
+https://github.com/Loyalsoldier/geoip (GPL-3.0).
+
+It does not include Loyalsoldier's generator, MaxMind account credentials,
+or any secret. Rebuilds are not performed here; files are fetched and
+checksum-verified from the upstream release branch.
